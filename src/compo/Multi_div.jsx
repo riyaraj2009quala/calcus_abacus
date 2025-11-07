@@ -100,7 +100,7 @@ export function Multi_div({ op, dig, otherdig, time, no_quest }) {
 
   return (
     <div className="mainbox w-full flex flex-col p-2 sm:p-4">
-      <p className="font-[CC Elsewhere] font-extrabold text-3xl sm:text-4xl text-white text-center mb-4">
+      <p className="font-[CC Elsewhere] font-extrabold text-3xl sm:text-4xl text-black text-center mb-4">
         Calci Abacus
       </p>
 

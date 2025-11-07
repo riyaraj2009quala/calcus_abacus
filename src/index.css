@@ -28,11 +28,11 @@ body {
   min-height: 100vh;
   display: block;       /* allow normal flow */
   overflow-y: auto;     /* enable vertical scrolling */
-  background-image: url('./abacus image.png');
+  /* background-image: url('./abacus image.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
-  background-attachment: fixed;
+  background-attachment: fixed; */
 }
 
 
