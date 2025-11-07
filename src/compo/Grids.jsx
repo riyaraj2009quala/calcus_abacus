@@ -96,7 +96,7 @@ export function Grids({ op, dig, rows, time, no_quest }) {
         <div>{seconds.toString().padStart(2, "0")}</div>
       </div>
 
-      <p className="font-extrabold text-3xl sm:text-4xl text-black text-center mb-4">Calci Abacus</p>
+      <p className="font-extrabold text-3xl sm:text-4xl text-white text-center mb-4">Calci Abacus</p>
 
       <form onSubmit={handleSubmit}>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 justify-items-center">

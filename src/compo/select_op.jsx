@@ -55,7 +55,7 @@ export function Select_op() {
 
   return (
     <div className="main_div min-h-screen w-full flex flex-col items-center via-black to-gray-900 text-white px-4 py-6">
-      <p className="text-black font-extrabold text-4xl sm:text-5xl md:text-6xl lg:text-7xl mb-6 mt-3 text-center drop-shadow-md">
+      <p className="font-extrabold text-4xl sm:text-5xl md:text-6xl lg:text-7xl mb-6 mt-3 text-center drop-shadow-md">
         Calci Abacus
       </p>
 
